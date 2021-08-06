@@ -1,10 +1,9 @@
-# portfolio
 <h1 align="center">Hi 👋, I'm Navin Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/knavin091" target="blank"><img src="https://img.shields.io/twitter/follow/knavin091?logo=twitter&style=for-the-badge" alt="knavin091" /></a> </p>
 
-- 🔭 I’m currently working on **My portfolio**
+- 🔭 I’m currently working on **A unique project**
 
 - 🌱 I’m currently learning **Reactjs,Spring Boot**
 
@@ -18,6 +17,8 @@
 <p align="left">
 <a href="https://codepen.io/knavin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="knavin" height="30" width="40" /></a>
 <a href="https://twitter.com/knavin091" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="knavin091" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/navin-kumar-8108a1189" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="navin-kumar-8108a1189" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/knavin091" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="knavin091" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@navin202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@navin202" height="30" width="40" /></a>
 </p>
 

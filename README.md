@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **knavin091@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1K1imwGR8xbWnm8OdvIg3B6YhFuy_PjDG/view?usp=drivesdk](https://drive.google.com/file/d/1K1imwGR8xbWnm8OdvIg3B6YhFuy_PjDG/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ftUw76xxB3JvIK-aReqjhsvbbZQRhxOB/view?usp=sharing](https://drive.google.com/file/d/1ftUw76xxB3JvIK-aReqjhsvbbZQRhxOB/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny**
 
